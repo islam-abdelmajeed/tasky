@@ -1,9 +1,7 @@
 class AppImages {
   //Svgs
-  static const String docdocLogo = 'assets/svgs/docdoc_logo.svg';
-  static const String docdocLogoLowOpacity = "assets/svgs/docdoc_logo_low_opacity.svg";
-
+  static const arrowLeft = 'assets/svgs/arrow-left.svg';
   //Images
-  static const onboardingDoctor = 'assets/images/onboarding_doctor.png';
+  static const toDoImage = 'assets/images/todo_image.png';
   //Icons
 }
